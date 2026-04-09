@@ -1,0 +1,4 @@
+# Mini-projeto Hello World
+Este arquivo serve para demonstrar o fluxo de trabalho no Git.
+Versão: 1.0.0
+Status: Em desenvolvimento.
