@@ -2,4 +2,4 @@
 - **O que causou o conflito:** (Vou preencher após fazer o merge)
 - **Como decidi o que manter:** (Vou preencher após fazer o merge)
 - **Comando/Ação:** (Vou preencher após fazer o merge)
-Linha original do professor.
+Texto alterado pela Branch B.
