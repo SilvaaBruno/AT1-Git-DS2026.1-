@@ -1,0 +1,1 @@
+# Exercício de Commits Semânticos
